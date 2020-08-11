@@ -15,4 +15,5 @@ def find_min_in_nested_arrays(src)
     row += 1
     new_array << min
   end
+  new_array
 end
